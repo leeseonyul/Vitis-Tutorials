@@ -17,9 +17,10 @@
     </a>
 </div>
 
-## </br>Unlocking a new design experience for all developers </br> df
+## </br>Unlocking a new design experience for all developers </br>모든 개발자들을 위한 새로운 설계 경험 제공
 
 The Vitis&trade; unified software platform enables the development of embedded software and accelerated applications on heterogeneous Xilinx&reg; platforms including FPGAs, SoCs, and Versal ACAPs. It provides a unified programming model for accelerating Edge, Cloud, and Hybrid computing applications.
+dfdf
 
 Leverage integration with high-level frameworks, develop in C, C++, or Python using accelerated libraries or use RTL-based accelerators & low-level runtime APIs for more fine-grained control over implementation — Choose the level of abstraction you need.
 
