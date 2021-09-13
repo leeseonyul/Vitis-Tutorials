@@ -8,7 +8,7 @@
 
 **Notice: Repository history is re-written to shrink the size on Aug. 20, 2021. If you encounter conflicts during `git pull`, please make a fresh new clone.**
 
-**공지: 레포지토리 히스토리는 2021년 8월 20일에 사이즈를 줄이기 위해 다시 작성되었다. `git-pull` 중 충돌이 발생하면 새로운 clone으로 복제해주세요.**
+**공지: 레포지토리 히스토리는 2021년 8월 20일에 사이즈를 줄이기 위해 다시 작성되었습니다. `git-pull` 중 충돌이 발생하면 새로운 clone으로 복제해주세요.**
 
 <div align="center">
     <a href="http://www.youtube.com/watch?v=vFPNlcXAeWI">
