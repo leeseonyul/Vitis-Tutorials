@@ -18,7 +18,7 @@
 </div>
 
 ## </br>Unlocking a new design experience for all developers
-## </br>df
+</br>df
 
 The Vitis&trade; unified software platform enables the development of embedded software and accelerated applications on heterogeneous Xilinx&reg; platforms including FPGAs, SoCs, and Versal ACAPs. It provides a unified programming model for accelerating Edge, Cloud, and Hybrid computing applications.
 
