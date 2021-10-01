@@ -73,10 +73,12 @@ Learn how to use Vitis, Vitis AI, and the Vitis accelerated libraries to impleme
 </br>Vitis, Vitis AI 및 Vitis 가속 라이브러리를 사용하여 순수 소프트웨어 정의 흐름을 사용함으로써 완전한 end-to-end 가속 애플리케이션을 구현하는 방법에 대해 알아본다. - 하드웨어 전문 지식은 필요하지 않다.
 
 Use Vitis AI to configure Xilinx hardware using the Tensorflow framework. Vitis AI allows the user to quantize, compile, and deploy an inference model in a matter of minutes.
+</br>Vitis AI를 사용하여 텐서플로 프레임워크를 사용함으로써 Xilinx 하드웨어를 구성한다. Vitis AI를 통해 사용자는 몇 분 만에 추론 모델을 양자화, 컴파일 및 배포할 수 있다.
 
-### [Embedded Design Tutorials](http://xilinx.github.io/Embedded-Design-Tutorials)
+### [Embedded Design Tutorials](http://xilinx.github.io/Embedded-Design-Tutorials)</br>[임베디드 디자인 튜토리얼]
 
 Learn how to build and use embedded operating systems and drivers on Xilinx Adaptive SoCs and the MicroBlaze™ soft processor. These tutorials cover open-source operating systems and bare metal drivers available from Xilinx, compilers, debuggers, and profiling tools for traditional SoC software development.
+</br>Xilinx Adaptive SoC 및 the MicroBlaze™ 소프트 프로세서에서 임베디드 운영 체제 및 드라이버를 구축하고 사용하는 방법에 대해 알아본다. 이 튜토리얼은 Xilinx에서 사용할 수 있는 오픈 소스 운영 체제와 베어 메탈 드라이버, 컴파일러, 디버거 및 전통적인 SoC 소프트웨어 개발을 위한 프로파일링 도구를 다룬다.
 
 
 <p align="center"><sup>Copyright&copy; 2020 Xilinx</sup></p>
