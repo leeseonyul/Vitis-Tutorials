@@ -23,7 +23,7 @@ The Vitis&trade; unified software platform enables the development of embedded s
 </br>Vities&trade; 통합 소프트웨어 플랫폼은 FPGA, SoC, Versal ACAP를 포함한 이종 Xilinx&reg; 플랫폼에서 임베디드 소프트웨어 및 가속된 애플리케이션을 개발할 수 있다. 엣지, 클라우드, 하이브리드 컴퓨팅 애플리케이션의 가속화를 위한 통한 프로그래밍 모델을 제공한다.
 
 Leverage integration with high-level frameworks, develop in C, C++, or Python using accelerated libraries or use RTL-based accelerators & low-level runtime APIs for more fine-grained control over implementation — Choose the level of abstraction you need.
-</br>고급 프레임워크와의 통합을
+</br>고급 프레임워크와의 통합을 활용하고 가속라이브러리를 사용하여 C, C++ 또는 파이썬에서 개발하거나 구현에 대한 세분화된 제어를 위해 RTL 기반 가속기 및 low-level 런타임 API를 사용한다. - 필요한 추상화 수준을 선택하시오.
 
 ## Tutorials
 
