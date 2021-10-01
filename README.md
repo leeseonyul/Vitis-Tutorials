@@ -28,18 +28,23 @@ Leverage integration with high-level frameworks, develop in C, C++, or Python us
 ## Tutorials</br>튜토리얼
 
 The Vitis Tutorials take users through the design methodology and programming model for deploying accelerated application on all Xilinx platforms.
+</br>Vitis 튜토리얼은 모든 Xilinx 플랫폼에 가속 애플리케이션을 사용하기 위한 설계 방법론과 프로그래밍 모델을 안내한다.
 
 <p align="center">
     <img src="./Getting_Started/Vitis/images/vitis-landing-graphic-boards-u50.png">
 </p>
 
 ### [Getting Started](./Getting_Started)
+</b>시작
 
 Start here! Learn the basics of the Vitis programming model by putting together your very first application. No experience necessary!
+</br>여기서 시작하세요! 첫 번째 애플리케이션을 함께 사용함으로써 Vitis 프로그래밍 모델의 기본 사항에 대해 알아본다. 경험은 필요하지 않다!
 
 ### [Acceleration Tutorial](./Hardware_Acceleration)
+</br>가속 튜토리얼
 
 Learn how to use the Vitis core development kit to build, analyze, and optimize an accelerated algorithm developed in C++, OpenCL, and even low-level hardware description languages (HDLs) like Verilog and VHDL.
+</br>Vitis 코어 개발 키트를 사용하여 C++, OpenCL, 또는 Verilog 및 VHDL과 같은 low-level 하드웨어 설명 언어(HDL)로 개발된 가속 알고리듬을 구축, 분석, 최적화하는 방법에 대해 알아본다.
 
 Learn how to use Vitis High-Level Synthesis (HLS), compiler, analyzer, and debugger to identify performance bottlenecks and make modifications to increase algorithm efficiency and performance using an Alveo&trade; Data Center acceleration card.
 
